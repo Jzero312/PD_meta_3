@@ -1,0 +1,2 @@
+Esta versao nao inclui a meta 2, pelo facto dela se encontrar inconpleta. O que causava alguns erros de conpatibilidade.
+Pelo que tambem realizei alteraçoes nos modelos de dados e acesso à bd.

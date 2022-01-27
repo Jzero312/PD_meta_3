@@ -1,0 +1,19 @@
+Login ->	POST http://localhost:8080/session
+
+		BODY EXEMPLE:{
+    			"username": "andre22",
+    			"password": "1234"
+			}
+
+RESTANTES header:Authorization tem de terminar em _123
+
+Alterar nome->	PUT http://localhost:8080/user?name=andre22
+Obter contactos -> GET http://localhost:8080/contacts
+remover contacto -> DELETE http://localhost:8080/contacts?name=pedro
+obter meus grupos -> GET http://localhost:8080/myGroups
+obter msg de grupo -> GET http://localhost:8080/myGroups/rock
+obter msg de contacto -> GET http://localhost:8080/contacts/pedro
+
+
+
+		
